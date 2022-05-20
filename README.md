@@ -5,14 +5,18 @@
 
 <p>Welcome to my page! </br> I'm Raj, MERN Stack, Meteor, React Native developer.</b>
 
-```yaml
-education: Bachelor in Computer Application and Science
-company: Silico Software Solutions
-technical_interests: ["Web", "Mobile", "System Design", "Web3", "Crypto"]
-currently_learning: Designing System Architecture
-```
-
-<h3>Things I code with</h3>
+<div style="display:flex;justify-content:center;align-items:center;">
+  
+  ```yaml
+  education: Bachelor in Computer Application and Science
+  company: Silico Software Solutions
+  technical_interests: ["Web", "Mobile", "System Design", "Web3", "Crypto"]
+  currently_learning: Designing System Architecture
+  ```
+  
+  <img height="500" width="auto" src="https://api.daily.dev/devcards/ddb1c8e078564e5bbbee7ab4d1ca4975.png?r=21e" />
+</div>
+<h3>Love ❤️ to code with this 👇🏼</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />
