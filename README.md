@@ -1,6 +1,6 @@
 ![linkin](https://user-images.githubusercontent.com/49932204/147898304-3027a172-ccf9-461c-89a6-0a0b62436487.jpg)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/> Hey there!</h1>
+<h1>👋🏼 Hey there!</h1>
 
 
 <p>Welcome to my page! </br> I'm Raj, MERN Stack, Meteor, React Native developer.</b>
@@ -8,10 +8,9 @@
 <div style="display:flex;justify-content:center;align-items:center;">
   
   ```yaml
-  education: Bachelor in Computer Application and Science
-  company: Silico Software Solutions
-  technical_interests: ["Web", "Mobile", "System Design", "Web3", "Crypto"]
-  currently_learning: Designing System Architecture
+  education: Masters in Computer Application and Science
+  technical_interests: ["Web", "Mobile", "System Design", "Product Design", "OpenAI"]
+  currently_learning:  System Architecture Designing, Digital/Social/Performance Marketing
   ```
   
   <img height="500" width="auto" src="https://api.daily.dev/devcards/ddb1c8e078564e5bbbee7ab4d1ca4975.png?r=21e" />
