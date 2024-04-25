@@ -13,7 +13,7 @@
   currently_learning:  System Architecture Designing, Digital/Social/Performance Marketing
   ```
   
-  <img height="500" width="auto" src="https://api.daily.dev/devcards/ddb1c8e078564e5bbbee7ab4d1ca4975.png?r=21e" />
+  <a href="https://app.daily.dev/rjtej"><img src="https://api.daily.dev/devcards/v2/IIddJwBRtWJSppxsFvnVU.png?r=tnp&type=default" width="356" alt="Raj Tejani's Dev Card"/></a>
 </div>
 <h3>Love ❤️ to code with this 👇🏼</h3>
 <p>
