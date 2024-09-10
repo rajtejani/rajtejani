@@ -9,8 +9,7 @@
   
   ```yaml
   education: Masters in Computer Application and Science
-  technical_interests: ["Web", "Mobile", "System Design", "Product Design", "OpenAI"]
-  currently_learning:  System Architecture Designing, Digital/Social/Performance Marketing
+  technical_interests: ["Web", "Mobile", "System Design", "Product Design", "OpenAI", "GenAI", "Product Developement"]
   ```
   
   <a href="https://app.daily.dev/rjtej"><img src="https://api.daily.dev/devcards/v2/IIddJwBRtWJSppxsFvnVU.png?r=tnp&type=default" width="356" alt="Raj Tejani's Dev Card"/></a>
