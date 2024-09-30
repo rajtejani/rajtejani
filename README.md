@@ -3,13 +3,13 @@
 <h1>👋🏼 Hey there!</h1>
 
 
-<p>Welcome to my page! </br> I'm Raj, MERN Stack, Meteor, React Native developer.</b>
+<p>Welcome to my page! </br> I'm Raj, Full-Stack developer.</b>
 
 <div style="display:flex;justify-content:center;align-items:center;">
   
   ```yaml
-  education: Masters in Computer Application and Science
-  technical_interests: ["Web", "Mobile", "System Design", "Product Design", "OpenAI", "GenAI", "Product Developement"]
+  education: Bachelors in Computer Application and Science
+  technical_interests: ["Web", "Mobile", "System Design", "Product Design", "Product Developement", "AI", "GenAI",]
   ```
   
   <a href="https://app.daily.dev/rjtej"><img src="https://api.daily.dev/devcards/v2/IIddJwBRtWJSppxsFvnVU.png?r=tnp&type=default" width="356" alt="Raj Tejani's Dev Card"/></a>
@@ -41,10 +41,3 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=rajtejani&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-
- | <a href="https://github.com/rajtejani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajtejani&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Raj's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtejani&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
