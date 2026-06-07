@@ -10,7 +10,7 @@
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-View-FF6B6B?style=for-the-badge&logo=safari)](https://rajtejani.dev) -->
 <!-- [![Upwork](https://img.shields.io/badge/Upwork-Hire-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01da17accc6cd47e4e) -->
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rajtejani9@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rajtejani.usa@gmail.com)
 
 </div>
 
